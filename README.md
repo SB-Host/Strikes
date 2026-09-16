@@ -3,6 +3,11 @@
 A shared strike board for a group that runs on accountability. One page everybody
 can see, so nobody has to text the person who owns the spreadsheet.
 
+> **Want the five-minute version instead?** [`google-form/`](google-form/) builds
+> the same idea as a Google Form plus a Sheet — a dropdown for who, a dropdown for
+> why, and a standings tab that counts everyone's strikes on its own. No hosting,
+> no accounts, no deploy. Start there if this looks like more than you need.
+
 The spreadsheet answered one question — how many does each person have. This
 answers the ones that were living in your text messages instead: how long have
 they had it, what do they have to do to get rid of it, who gave it to them and
